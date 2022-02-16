@@ -1,0 +1,13 @@
+/*@media only screen and (max-width: 600px)*/
+
+
+@media screen and (max-width: 800px){
+    #im{
+        width: auto;
+        height: auto;
+    }
+    .div{
+        text-align: center;
+        display: contents;
+    }
+}
