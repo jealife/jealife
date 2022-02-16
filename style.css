@@ -9,5 +9,6 @@
     .div{
         text-align: center;
         display: contents;
+        align-items: flex-start;
     }
 }
