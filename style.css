@@ -108,6 +108,7 @@ footer {
 }
 
 .footer-container {
+    margin-top:5px;
     display: flex;
     flex-direction: column;
     text-align: center;
